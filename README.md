@@ -1,5 +1,6 @@
 Chromium Vendor Repo
 ========
+[![Build Status](http://jenkins.carbonrom.org/job/Chromium/badge/icon)](http://jenkins.carbonrom.org/job/Chromium/)
 
 This repository contains the pre-built binaries of Chromium for Android.
 
