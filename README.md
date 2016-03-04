@@ -1,11 +1,10 @@
 Chromium Vendor Repo
 ========
-[![Build Status](http://jenkins.carbonrom.org/job/Chromium/badge/icon)](http://jenkins.carbonrom.org/job/Chromium/)
 
 This repository contains the pre-built binaries of Chromium for Android.
 
 ### Current Version
-The current version is 2395.
+The current version is 20151225.
 
 ### Is it signed?
 As of 2395, Chromium is now signed with internal keys. If you want to resign the apks, feel free.
@@ -32,7 +31,7 @@ You can find instructions on the [Chromium Website]
 ### But I have more question?
 If you have more questions, feel free to contact root on his [Google+]. Be considerate when it relates to time, he is on the East Coast so messaging him anytime during the day is okay. If you message him after midnight (EDT), there's a really high chance you will get ignored and/or blocked.
 
-
+### Important Links
    [Gerrit]: <http://review.carbonrom.org/#/admin/projects/CarbonROM/android_vendor_chromium>
    [Chromium Website]: <https://www.chromium.org/developers/how-tos/android-build-instructions>
    [Google+]: <https://plus.google.com/+RyanNorrisNigee/posts>
