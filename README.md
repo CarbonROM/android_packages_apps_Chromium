@@ -29,10 +29,7 @@ We build our own Chromium binaries everyday that we have weekly releases. But, i
 ### How to Build Chromium?
 You can find instructions on the [Chromium Website]
 
-### But I have more question?
-If you have more questions, feel free to contact root on his [Google+]. Be considerate when it relates to time, he is on the East Coast so messaging him anytime during the day is okay. If you message him after midnight (EDT), there's a really high chance you will get ignored and/or blocked.
-
-
-   [Gerrit]: <http://review.carbonrom.org/#/admin/projects/CarbonROM/android_vendor_chromium>
-   [Chromium Website]: <https://www.chromium.org/developers/how-tos/android-build-instructions>
-   [Google+]: <https://plus.google.com/+RyanNorrisNigee/posts>
+### But I have more questions?
+If you have more questions, feel free to utilize the following resources:
+[Gerrit]: <http://review.carbonrom.org/#/admin/projects/CarbonROM/android_vendor_chromium>
+[Chromium Website]: <https://www.chromium.org/developers/how-tos/android-build-instructions>
