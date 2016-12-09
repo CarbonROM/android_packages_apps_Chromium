@@ -5,10 +5,10 @@ Chromium Vendor Repo
 This repository contains the pre-built binaries of Chromium for Android.
 
 ### Current Version
-The current version is 2395.
+The current version is 20160917.
 
 ### Is it signed?
-As of 2395, Chromium is now signed with internal keys. If you want to resign the apks, feel free.
+As of 20160917, Chromium is now signed with internal keys. If you want to resign the apks, feel free.
 
 ### But where is my awesomely hideous AOSP Browser?
 AOSP Browser is in dire need of a UI refresh, and I'm not the guy to do that. So, enter here Chromium.
